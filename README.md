@@ -30,7 +30,7 @@ The dataset used in this project is `cinema_hall_ticket_sales_ampliado.csv`. Thi
 4. **Recommendations**: Propose solutions such as dynamic pricing, targeted marketing, and enhanced in-cinema experiences to increase attendance and profitability.
 
 
-## Estructura del Repositorio
+## Estructura del Repositorio / Repository Structure
 ```plaintext
 ML_Tickets_cinema/
 ├── src/
