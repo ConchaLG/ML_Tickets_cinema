@@ -13,7 +13,7 @@ El conjunto de datos utilizado en este proyecto es `cinema_hall_ticket_sales_amp
 4. **Recomendaciones**: Proponer soluciones como precios dinámicos, marketing dirigido y experiencias mejoradas en el cine para aumentar la asistencia y la rentabilidad.
 
 ## Estructura del Repositorio
-
+plaintext
 # ML_Tickets_cinema/
 ├── src/
 │   ├── data_sample/
@@ -44,7 +44,7 @@ The dataset used in this project is `cinema_hall_ticket_sales_ampliado.csv`. Thi
 4. **Recommendations**: Propose solutions such as dynamic pricing, targeted marketing, and enhanced in-cinema experiences to increase attendance and profitability.
 
 ## Repository Structure
-```plaintext
+plaintext
 ML_Tickets_cinema/
 ├── src/
 │   ├── data_sample/
